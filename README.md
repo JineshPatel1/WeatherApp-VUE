@@ -8,4 +8,4 @@ https://www.youtube.com/watch?v=JLc-hWsPTUY&t=535s
 Github Repo for Code
 https://github.com/TylerPottsDev/weather-vue
 
-App Credit goes to Tyle rPotts
+App Credit goes to Tyler Potts
