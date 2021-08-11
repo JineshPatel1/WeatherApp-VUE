@@ -5,5 +5,5 @@ Reference taken from
 # Youtube Video on how to build it using VUE JS.
 https://www.youtube.com/watch?v=JLc-hWsPTUY&t=535s
 
-# Github Repo for Code from Tyler Potts
+# Original Credit to Tyler Potts
 https://github.com/TylerPottsDev/weather-vue
