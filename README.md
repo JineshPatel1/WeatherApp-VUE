@@ -1,5 +1,5 @@
 # WeatherApp-Vue
-Weather App Deployed using Azure Static Apps
+Weather App Deployed using Azure Static Apps and Github Actions for CI/CD
 
 Reference taken from 
 Youtube Video on how to build it using VUE and JS.
